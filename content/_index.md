@@ -6,5 +6,5 @@ title: "Welcome"
 
 Check out my work below or connect with me:
 - [GitHub](https://github.com/yourname)
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Email Me](mailto:you@rsk3d.com)
+- [LinkedIn](https://linkedin.com/in/richard-k-29b92784)
+- [Email Me](mailto:contact@rsk3d.com)
